@@ -7,6 +7,10 @@
           <Include href="MenuAssets/About.xml" itemIcon="0" loadImmediate="false"/>
           <Include href="MenuAssets/LOGO.xml" loadImmediate="false"/>
           <Include href="MenuAssets/Start.xml" itemIcon="0" loadImmediate="false"/>
+          <Include href="MenuAssets/Back.xml" itemIcon="0" loadImmediate="false"/>
+          <Include href="MenuAssets/Easy.xml" itemIcon="0" loadImmediate="false"/>
+          <Include href="MenuAssets/Hard.xml" itemIcon="0" loadImmediate="false"/>
+          <Include href="MenuAssets/Normal.xml" itemIcon="0" loadImmediate="false"/>
      </symbols>
      <timelines>
           <DOMTimeline name="場景 1">
