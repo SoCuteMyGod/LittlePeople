@@ -1,10 +1,79 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuAssets/Easy" itemID="545dd817-000001e1" sourceLibraryItemHRef="元件 1" symbolType="button" lastModified="1415437861">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuAssets/Easy" itemID="545dd817-000001e1" sourceLibraryItemHRef="元件 1" symbolType="button" lastModified="1415438943">
   <timeline>
-    <DOMTimeline name="Easy">
+    <DOMTimeline name="Easy" currentFrame="3">
       <layers>
         <DOMLayer name="文字" color="#FF800A" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="71" height="34.5">
+                  <matrix>
+                    <Matrix tx="-57" ty="-19.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="7" size="30" bitmapSize="600" face="TimeScrD-Medi"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Eazy</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="7" size="25" bitmapSize="500" face="TimeScrD-Medi"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText width="71" height="34.5">
+                  <matrix>
+                    <Matrix tx="-57" ty="-19.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="7" size="30" bitmapSize="600" face="TimeScrD-Medi"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Eazy</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="7" size="25" bitmapSize="500" face="TimeScrD-Medi"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText width="71" height="34.5">
+                  <matrix>
+                    <Matrix tx="-55" ty="-17.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="7" size="30" bitmapSize="600" face="TimeScrD-Medi"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Eazy</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="7" size="25" bitmapSize="500" face="TimeScrD-Medi"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
               <elements>
                 <DOMStaticText width="71" height="34.5">
                   <matrix>
@@ -42,6 +111,54 @@
                   <edges>
                     <Edge fillStyle0="1" edges="!-1213 -283[-1330 -166 -1330 0!-1330 0|-1330 1!-1330 1[-1330 167 -1213 284!-1213 284[-1096 401 -930 401!-930 401|370 401!370 401[536 401 653 284!653 284[770 167 770 1!770 1|770 0!770 0[770 -166 653 -283!653 -283[536 -400 370 -400!370
  -400|-930 -400!-930 -400[-1096 -400 -1213 -283"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCCCCC"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!370 -400|-930 -400!-930 -400[-1096 -400 -1213 -283!-1213 -283[-1330 -166 -1330 0!-1330 0|-1330 1!-1330 1[-1330 167 -1213 284!-1213 284[-1096 401 -930 401!-930 401|370 401!370 401[536 401 653 284!653 284[770 167 770 1!770 1|770 0!770
+ 0[770 -166 653 -283!653 -283[536 -400 370 -400"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!450 -320|-850 -320!-850 -320[-1016 -320 -1133 -203!-1133 -203[-1250 -86 -1250 80!-1250 80|-1250 81!-1250 81[-1250 247 -1133 364!-1133 364[-1016 481 -850 481!-850 481|450 481!450 481[616 481 733 364!733 364[850 247 850 81!850 81|850 80
+!850 80[850 -86 733 -203!733 -203[616 -320 450 -320"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!370 -400|-930 -400!-930 -400[-1096 -400 -1213 -283!-1213 -283[-1330 -166 -1330 0!-1330 0|-1330 1!-1330 1[-1330 167 -1213 284!-1213 284[-1096 401 -930 401!-930 401|370 401!370 401[536 401 653 284!653 284[770 167 770 1!770 1|770 0!770
+ 0[770 -166 653 -283!653 -283[536 -400 370 -400"/>
                   </edges>
                 </DOMShape>
               </elements>
