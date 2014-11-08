@@ -15,7 +15,7 @@
      <timelines>
           <DOMTimeline name="場景 1">
                <layers>
-                    <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true">
+                    <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>

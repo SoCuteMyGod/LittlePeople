@@ -1,11 +1,50 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuAssets/Easy" itemID="545dd817-000001e1" sourceLibraryItemHRef="元件 1" symbolType="button" lastModified="1415436367">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuAssets/Easy" itemID="545dd817-000001e1" sourceLibraryItemHRef="元件 1" symbolType="button" lastModified="1415437861">
   <timeline>
     <DOMTimeline name="Easy">
       <layers>
-        <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true">
+        <DOMLayer name="文字" color="#FF800A" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
-              <elements/>
+              <elements>
+                <DOMStaticText width="71" height="34.5">
+                  <matrix>
+                    <Matrix tx="-57" ty="-19.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="7" size="30" bitmapSize="600" face="TimeScrD-Medi"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Eazy</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="7" size="25" bitmapSize="500" face="TimeScrD-Medi"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Eazy" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-1213 -283[-1330 -166 -1330 0!-1330 0|-1330 1!-1330 1[-1330 167 -1213 284!-1213 284[-1096 401 -930 401!-930 401|370 401!370 401[536 401 653 284!653 284[770 167 770 1!770 1|770 0!770 0[770 -166 653 -283!653 -283[536 -400 370 -400!370
+ -400|-930 -400!-930 -400[-1096 -400 -1213 -283"/>
+                  </edges>
+                </DOMShape>
+              </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>

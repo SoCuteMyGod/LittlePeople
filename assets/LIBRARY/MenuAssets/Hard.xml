@@ -1,11 +1,36 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuAssets/Hard" itemID="545dd85e-000001e5" sourceLibraryItemHRef="MenuAssets/元件 1" symbolType="button" lastModified="1415436402">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuAssets/Hard" itemID="545dd85e-000001e5" sourceLibraryItemHRef="MenuAssets/元件 1" symbolType="button" lastModified="1415437623">
   <timeline>
     <DOMTimeline name="Hard">
       <layers>
         <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
-              <elements/>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!933 -284[816 -401 650 -401!650 -401|-650 -401!-650 -401[-816 -401 -933 -284!-933 -284[-1050 -167 -1050 -1!-1050 -1|-1050 0!-1050 0[-1050 166 -933 283!-933 283[-816 400 -650 400!-650 400|650 400!650 400[816 400 933 283!933 283[1050 166
+ 1050 0!1050 0|1050 -1!1050 -1[1050 -167 933 -284"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="90" height="28.75">
+                  <matrix>
+                    <Matrix tx="-33.05" ty="-14.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Hard</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="7" size="25" bitmapSize="500" face="TimeScrD-Medi"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
