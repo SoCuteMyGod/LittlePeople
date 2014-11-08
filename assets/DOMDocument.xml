@@ -1,6 +1,7 @@
 ﻿<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="320" height="480" currentTimeline="1" xflVersion="2.0" creatorInfo="Adobe Flash Professional CS5" platform="Windows" versionInfo="Saved by Adobe Flash Windows 11.0 build 485" majorVersion="11" buildNumber="485" viewAngle3D="33.7005366175533" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <folders>
           <DOMFolderItem name="MenuAssets" itemID="545dd6c0-000001d5" isExpanded="true"/>
+          <DOMFolderItem name="GameAssets" itemID="545dd7a9-000001d5"/>
      </folders>
      <symbols>
           <Include href="MenuAssets/ Rank.xml" itemIcon="0" loadImmediate="false"/>
