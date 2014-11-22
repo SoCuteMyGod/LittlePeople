@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuAssets/Easy" itemID="545dd817-000001e1" sourceLibraryItemHRef="元件 1" symbolType="button" lastModified="1415438943">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuAssets/Easy" itemID="54704b25-000001d6" symbolType="button" lastModified="1416645413">
   <timeline>
     <DOMTimeline name="Easy" currentFrame="3">
       <layers>
@@ -109,8 +109,8 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle0="1" edges="!-1213 -283[-1330 -166 -1330 0!-1330 0|-1330 1!-1330 1[-1330 167 -1213 284!-1213 284[-1096 401 -930 401!-930 401|370 401!370 401[536 401 653 284!653 284[770 167 770 1!770 1|770 0!770 0[770 -166 653 -283!653 -283[536 -400 370 -400!370
- -400|-930 -400!-930 -400[-1096 -400 -1213 -283"/>
+                    <Edge fillStyle0="1" edges="!370 -400|-930 -400!-930 -400[-1096 -400 -1213 -283!-1213 -283[-1330 -166 -1330 0!-1330 0|-1330 1!-1330 1[-1330 167 -1213 284!-1213 284[-1096 401 -930 401!-930 401|370 401!370 401[536 401 653 284!653 284[770 167 770 1!770 1|770 0!770
+ 0[770 -166 653 -283!653 -283[536 -400 370 -400"/>
                   </edges>
                 </DOMShape>
               </elements>
