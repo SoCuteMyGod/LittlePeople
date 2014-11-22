@@ -1,12 +1,12 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuAssets/Normal" itemID="545dd84f-000001e3" sourceLibraryItemHRef="MenuAssets/元件 1" symbolType="button" lastModified="1415438891">
   <timeline>
-    <DOMTimeline name="Normal" currentFrame="3">
+    <DOMTimeline name="Normal">
       <layers>
         <DOMLayer name="文字" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText width="96" height="28.75">
+                <DOMStaticText selected="true" width="96" height="28.75">
                   <matrix>
                     <Matrix tx="-48" ty="-14.4"/>
                   </matrix>
@@ -85,8 +85,8 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle0="1" edges="!933 -284[816 -401 650 -401!650 -401|-650 -401!-650 -401[-816 -401 -933 -284!-933 -284[-1050 -167 -1050 -1!-1050 -1|-1050 0!-1050 0[-1050 166 -933 283!-933 283[-816 400 -650 400!-650 400|650 400!650 400[816 400 933 283!933 283[1050 166
- 1050 0!1050 0|1050 -1!1050 -1[1050 -167 933 -284"/>
+                    <Edge fillStyle0="1" edges="!933 -284S1[816 -401 650 -401!650 -401|-650 -401!-650 -401[-816 -401 -933 -284!-933 -284[-1050 -167 -1050 -1!-1050 -1|-1050 0!-1050 0[-1050 166 -933 283!-933 283[-816 400 -650 400!-650 400|650 400!650 400[816 400 933 283!933 283[1050
+ 166 1050 0!1050 0|1050 -1!1050 -1[1050 -167 933 -284"/>
                   </edges>
                 </DOMShape>
               </elements>
