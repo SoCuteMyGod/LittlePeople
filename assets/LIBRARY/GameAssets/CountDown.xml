@@ -1,0 +1,112 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="GameAssets/CountDown" itemID="545dd80a-000001d7" sourceLibraryItemHRef="元件 1" lastModified="1415436717">
+  <timeline>
+    <DOMTimeline name="CountDown" currentFrame="89">
+      <layers>
+        <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="28" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMTLFText name="" right="960" bottom="2320">
+                  <matrix>
+                    <Matrix tx="-24" ty="-58"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="BrookeShappell8" psName="BrookeShappell8"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0066cc" fontFamily="BrookeShappell8" fontSize="112" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">3</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMTLFText name="" right="719" bottom="1700">
+                  <matrix>
+                    <Matrix a="0.252777099609375" d="0.252777099609375" tx="-4.55" ty="-10.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18" y="42.55"/>
+                  </transformationPoint>
+                  <tlfFonts>
+                    <TLFFont platformName="BrookeShappell8" psName="BrookeShappell8"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0066cc" fontFamily="BrookeShappell8" fontSize="81" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">3</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="29" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMTLFText name="" right="1040" bottom="2320">
+                  <matrix>
+                    <Matrix tx="-26" ty="-58"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="BrookeShappell8" psName="BrookeShappell8"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0066cc" fontFamily="BrookeShappell8" fontSize="112" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">2</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" keyMode="9728">
+              <elements>
+                <DOMTLFText name="" right="779" bottom="1700">
+                  <matrix>
+                    <Matrix a="0.23077392578125" d="0.23077392578125" tx="-4.5" ty="-9.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.5" y="42.45"/>
+                  </transformationPoint>
+                  <tlfFonts>
+                    <TLFFont platformName="BrookeShappell8" psName="BrookeShappell8"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0066cc" fontFamily="BrookeShappell8" fontSize="81" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">2</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="29" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMTLFText name="" right="400" bottom="2320">
+                  <matrix>
+                    <Matrix tx="-10" ty="-58"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="BrookeShappell8" psName="BrookeShappell8"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0066cc" fontFamily="BrookeShappell8" fontSize="112" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">1</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" keyMode="9728">
+              <elements>
+                <DOMTLFText name="" right="319" bottom="1700" centerPoint3DX="-0.05">
+                  <matrix>
+                    <Matrix a="0.341171264648438" d="0.341171264648438" tx="-2.75" ty="-14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.9" y="42.5"/>
+                  </transformationPoint>
+                  <tlfFonts>
+                    <TLFFont platformName="BrookeShappell8" psName="BrookeShappell8"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0066cc" fontFamily="BrookeShappell8" fontSize="81" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">1</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" keyMode="9728">
+              <elements>
+                <DOMTLFText name="" right="2160" bottom="2320">
+                  <matrix>
+                    <Matrix tx="-54" ty="-58"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="BrookeShappell8" psName="BrookeShappell8"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0066cc" fontFamily="BrookeShappell8" fontSize="112" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">GO</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
