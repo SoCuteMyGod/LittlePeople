@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="000_MainObjects/LevelMenu" itemID="54705763-00000215" sourceLibraryItemHRef="元件 1" lastModified="1416648685">
+  <timeline>
+    <DOMTimeline name="LevelMenu">
+      <layers>
+        <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MenuAssets/Easy" name="" symbolType="button">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuAssets/Normal" name="" symbolType="button">
+                  <matrix>
+                    <Matrix ty="60"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuAssets/Hard" name="" symbolType="button">
+                  <matrix>
+                    <Matrix ty="120"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuAssets/Back" name="" symbolType="button">
+                  <matrix>
+                    <Matrix ty="180"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
