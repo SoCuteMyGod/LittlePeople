@@ -1,0 +1,147 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuAssets/Start" itemID="545dd8c3-000001da" sourceLibraryItemHRef="元件 1" symbolType="button" lastModified="1415439278">
+  <timeline>
+    <DOMTimeline name="Start">
+      <layers>
+        <DOMLayer name="字" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="58.2" height="28.75" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-35" ty="-32.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Start</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="25" bitmapSize="500" face="TimeScrD-Medi"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText width="58.2" height="28.75" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-35" ty="-32.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Start</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="25" bitmapSize="500" face="TimeScrD-Medi"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText width="58.2" height="28.75" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-34" ty="-31.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Start</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="25" bitmapSize="500" face="TimeScrD-Medi"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMStaticText width="58.2" height="28.75" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-35" ty="-32.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Start</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="25" bitmapSize="500" face="TimeScrD-Medi"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="底" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!960 -359[960 -525 843 -642!843 -642[726 -759 560 -759!560 -759|-740 -759!-740 -759[-906 -759 -1023 -642!-1023 -642[-1140 -525 -1140 -359!-1140 -359[-1140 -193 -1023 -76!-1023 -76[-906 41 -740 41!-740 41|560 41!560 41[726 41 843 -76!843
+ -76[960 -193 960 -359"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCCCCC"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!960 -359[960 -525 843 -642!843 -642[726 -759 560 -759!560 -759|-740 -759!-740 -759[-906 -759 -1023 -642!-1023 -642[-1140 -525 -1140 -359!-1140 -359[-1140 -193 -1023 -76!-1023 -76[-906 41 -740 41!-740 41|560 41!560 41[726 41 843 -76!843
+ -76[960 -193 960 -359"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!980 -339[980 -505 863 -622!863 -622[746 -739 580 -739!580 -739|-720 -739!-720 -739[-886 -739 -1003 -622!-1003 -622[-1120 -505 -1120 -339!-1120 -339[-1120 -173 -1003 -56!-1003 -56[-886 61 -720 61!-720 61|580 61!580 61[746 61 863 -56!863
+ -56[980 -173 980 -339"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!960 -359[960 -525 843 -642!843 -642[726 -759 560 -759!560 -759|-740 -759!-740 -759[-906 -759 -1023 -642!-1023 -642[-1140 -525 -1140 -359!-1140 -359[-1140 -193 -1023 -76!-1023 -76[-906 41 -740 41!-740 41|560 41!560 41[726 41 843 -76!843
+ -76[960 -193 960 -359"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
