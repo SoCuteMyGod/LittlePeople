@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="000_MainObjects/MainMenu" itemID="5482b9a4-000001fa" sourceLibraryItemHRef="元件 1" lastModified="1417853432">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="000_MainObjects/MainMenu" itemID="5482b9a4-000001fa" sourceLibraryItemHRef="元件 1" lastModified="1417856442">
   <timeline>
     <DOMTimeline name="MainMenu">
       <layers>
@@ -6,12 +6,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="MenuAssets/Start" name="" symbolType="button">
+                <DOMSymbolInstance libraryItemName="MenuAssets/Start" name="startBtn" symbolType="button">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="MenuAssets/Rank" name="" symbolType="button">
+                <DOMSymbolInstance libraryItemName="MenuAssets/Rank" name="rankBtn" symbolType="button">
                   <matrix>
                     <Matrix ty="60"/>
                   </matrix>
@@ -19,7 +19,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="MenuAssets/About" name="" symbolType="button">
+                <DOMSymbolInstance libraryItemName="MenuAssets/About" name="aboutBtn" symbolType="button">
                   <matrix>
                     <Matrix ty="120"/>
                   </matrix>
