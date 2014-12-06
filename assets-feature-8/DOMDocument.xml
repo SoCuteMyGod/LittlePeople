@@ -11,7 +11,287 @@
                     <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
-                                   <elements/>
+                                   <elements>
+                                        <DOMTLFText name="" right="6080" bottom="1280">
+                                             <matrix>
+                                                  <Matrix tx="7.25" ty="19.7"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="60" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">◇排行榜◆</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="380" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="33.75" ty="139.95"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">1.</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="380" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="33.75" ty="170.35"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">2.</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="380" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="33.75" ty="200.75"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">3.</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="380" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="33.75" ty="231.15"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">4.</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="380" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="33.75" ty="261.55"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">5.</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="380" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="33.75" ty="291.95"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">6.</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="380" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="33.75" ty="322.35"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">7.</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="380" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="33.75" ty="352.75"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">8.</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="380" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="33.75" ty="383.15"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">9.</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="580" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="28.75" ty="413.55"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">10.</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1280" bottom="480">
+                                             <matrix>
+                                                  <Matrix tx="90.05" ty="138.1"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">尤泓鈞</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1280" bottom="480">
+                                             <matrix>
+                                                  <Matrix tx="90.05" ty="410.6"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">劉漢文</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1280" bottom="480">
+                                             <matrix>
+                                                  <Matrix tx="90.05" ty="200.75"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">鄭念昀</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1280" bottom="480">
+                                             <matrix>
+                                                  <Matrix tx="90.05" ty="229.85"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">游東祥</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1280" bottom="480">
+                                             <matrix>
+                                                  <Matrix tx="90.05" ty="259.55"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">吳炫宗</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1280" bottom="480">
+                                             <matrix>
+                                                  <Matrix tx="90.05" ty="289.05"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">蘇琬育</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1280" bottom="480">
+                                             <matrix>
+                                                  <Matrix tx="90.05" ty="319.65"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">蔡昀佑</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1680" bottom="480">
+                                             <matrix>
+                                                  <Matrix tx="80.05" ty="169.5"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">野原廣志</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1680" bottom="480">
+                                             <matrix>
+                                                  <Matrix tx="80.05" ty="350.35"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">動感超人</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="2080" bottom="480">
+                                             <matrix>
+                                                  <Matrix tx="70.05" ty="380.2"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">野原新之助</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="2880" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="167.25" ty="147.35"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">99999999999999</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1280" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="202.55" ty="258.2"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">888888</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1680" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="197.25" ty="169.5"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">77777777</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1680" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="195.9" ty="208.15"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">77777776</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="480" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="243.75" ty="415.15"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">10</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1480" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="197.25" ty="236.05"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">1000000</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1280" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="207.25" ty="322.35"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">147586</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1280" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="207.25" ty="289.05"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">748569</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="1080" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="212.25" ty="344.5"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">50000</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                        <DOMTLFText name="" right="465" bottom="443">
+                                             <matrix>
+                                                  <Matrix tx="227.1" ty="374.9"/>
+                                             </matrix>
+                                             <tlfFonts>
+                                                  <TLFFont platformName="Times New Roman" psName="TimesNewRomanPSMT"/>
+                                             </tlfFonts>
+                                             <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="zh_TW" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#000000" fontFamily="Times New Roman" fontSize="20" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">11</span></p></TextFlow></tlfTextObject></markup>
+                                        </DOMTLFText>
+                                   </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
