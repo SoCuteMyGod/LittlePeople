@@ -1,8 +1,8 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="320" height="480" currentTimeline="1" xflVersion="2.0" creatorInfo="Adobe Flash Professional CS5" platform="Windows" versionInfo="Saved by Adobe Flash Windows 11.0 build 485" majorVersion="11" buildNumber="485" viewAngle3D="33.7005366175533" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <folders>
           <DOMFolderItem name="000_MainObjects" itemID="547051df-0000022c" isExpanded="true"/>
-          <DOMFolderItem name="GameAssets" itemID="54705549-00000274"/>
-          <DOMFolderItem name="MenuAssets" itemID="5470553c-00000269"/>
+          <DOMFolderItem name="GameAssets" itemID="54705549-00000274" isExpanded="true"/>
+          <DOMFolderItem name="MenuAssets" itemID="5470553c-00000269" isExpanded="true"/>
      </folders>
      <symbols>
           <Include href="000_MainObjects/LevelMenu.xml" loadImmediate="false"/>
@@ -23,32 +23,7 @@
                     <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="MenuAssets/Start" name="" selected="true" symbolType="button">
-                                             <matrix>
-                                                  <Matrix tx="159.45" ty="147.3"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="MenuAssets/Rank" name="" selected="true" symbolType="button">
-                                             <matrix>
-                                                  <Matrix tx="160.95" ty="269.35"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="MenuAssets/About" name="" selected="true" symbolType="button">
-                                             <matrix>
-                                                  <Matrix tx="160.95" ty="215.35"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
