@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="000_MainObjects/GameView" itemID="5482c4c3-00000216" sourceLibraryItemHRef="000_MainObjects/元件 1" lastModified="1417856451" lastUniqueIdentifier="3">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="000_MainObjects/GameView" itemID="5482c4c3-00000216" sourceLibraryItemHRef="000_MainObjects/元件 1" lastModified="1417857451" lastUniqueIdentifier="3">
   <timeline>
     <DOMTimeline name="GameView">
       <layers>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="000_MainObjects/LevelMenu" name="" selected="true" centerPoint3DX="161.95" centerPoint3DY="316.35">
+                <DOMSymbolInstance libraryItemName="000_MainObjects/LevelMenu" name="levelMenu" centerPoint3DX="161.95" centerPoint3DY="316.35">
                   <matrix>
                     <Matrix tx="161.95" ty="226.35"/>
                   </matrix>
