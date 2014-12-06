@@ -20,23 +20,23 @@
     <pngDefaultName>1</pngDefaultName>
     <qtDefaultName>1</qtDefaultName>
     <rnwkDefaultName>1</rnwkDefaultName>
-    <flashFileName>未命名-1.swf</flashFileName>
-    <projectorWinFileName>未命名-1.exe</projectorWinFileName>
-    <projectorMacFileName>未命名-1.app</projectorMacFileName>
-    <htmlFileName>未命名-1.html</htmlFileName>
-    <gifFileName>未命名-1.gif</gifFileName>
-    <jpegFileName>未命名-1.jpg</jpegFileName>
-    <pngFileName>未命名-1.png</pngFileName>
-    <qtFileName>未命名-1.mov</qtFileName>
-    <rnwkFileName>未命名-1.smil</rnwkFileName>
+    <flashFileName>assets-feature-6.swf</flashFileName>
+    <projectorWinFileName>assets-feature-6.exe</projectorWinFileName>
+    <projectorMacFileName>assets-feature-6.app</projectorMacFileName>
+    <htmlFileName>assets-feature-6.html</htmlFileName>
+    <gifFileName>assets-feature-6.gif</gifFileName>
+    <jpegFileName>assets-feature-6.jpg</jpegFileName>
+    <pngFileName>assets-feature-6.png</pngFileName>
+    <qtFileName>assets-feature-6.mov</qtFileName>
+    <rnwkFileName>assets-feature-6.smil</rnwkFileName>
   </PublishFormatProperties>
   <PublishHtmlProperties enabled="true">
     <VersionDetectionIfAvailable>0</VersionDetectionIfAvailable>
     <VersionInfo>10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
     <UsingDefaultContentFilename>1</UsingDefaultContentFilename>
     <UsingDefaultAlternateFilename>1</UsingDefaultAlternateFilename>
-    <ContentFilename>未命名-1_content.html</ContentFilename>
-    <AlternateFilename>未命名-1_alternate.html</AlternateFilename>
+    <ContentFilename>assets-feature-6_content.html</ContentFilename>
+    <AlternateFilename>assets-feature-6_alternate.html</AlternateFilename>
     <UsingOwnAlternateFile>0</UsingOwnAlternateFile>
     <OwnAlternateFilename></OwnAlternateFilename>
     <Width>320</Width>
