@@ -7,16 +7,18 @@
 7. 贊助
 
 
-數小人  智力遊戲
+LittlePeople [Mind games]
 
-版本 0.0.1
+Version: 0.0.1
 
-團名:Socutemygod
+Team:Socutemygod
 
-指導老師:
-         游東祥 老師
+Instructor:
+           Tr. Tony 
  
-團員:
-     劉漢文 鄭念昀 尤泓鈞 同學
-
-感謝 GreenSock  贊助
+Member:
+       Liu han wen
+       Yu hung chun
+       Nien cheng yun
+ 
+Thanks for GreenSock  Sponsor
