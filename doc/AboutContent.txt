@@ -6,16 +6,19 @@
 6. 聯絡我們 (可有可無，有就要負責)
 7. 贊助
 __________________________________________________________________________________________________________________________ 
-    LittlePeople
+- About LittlePeople -
 
-Team's information:So Cute My God
-       Members:3
-      Cheng Nien Yun  
-      Liu Wan Hen
-      Hung Chun Yu
- Contact Us:SoCuteMyGod
-   instructor:tony
+Version0.0.1
+- Team -
+   So Cute My God
 
-   Sponsor:GreenSocks
+- Leader -
+   YU, TUNG-HSIANG
+     
+- Members - 
+   Cheng, Nien-Yun  
+   Liu, Wan-Hen
+   Hung, Chun-Yu 
 
-            Version:0.0.1
+- Sponsor -
+   GreenSocks
