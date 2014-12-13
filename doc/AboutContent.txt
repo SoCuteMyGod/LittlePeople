@@ -7,18 +7,21 @@
 7. 贊助
 
 
-LittlePeople [Mind games]
+- About Little People -
 
-Version: 0.0.1
+v0.0.1
 
-Team:Socutemygod
 
-Instructor:
-           Tr. Tony 
- 
-Member:
-       Liu han wen
-       Yu hung chun
-       Nien cheng yun
- 
-Thanks for GreenSock  Sponsor
+- Team -
+So Cute My God
+
+- Leader -
+YU, TUNG-HSIANG
+
+- Member -
+CHENG, NIEN-YUN
+LIU, HAN-WEN
+YU, HUNG-CHUN
+
+- Support -
+GreenSock
