@@ -5,18 +5,17 @@
 5. 團隊成員
 6. 聯絡我們 (可有可無，有就要負責)
 7. 贊助
-__________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________ 
+    LittlePeople
 
-	數小人
+Team's information:So Cute My God
+       Members:3
+      Cheng Nien Yun  
+      Liu Wan Hen
+      Hung Chun Yu
+ Contact Us:SoCuteMyGod
+   instructor:tony
 
-團隊資訊:So Cute My God
-	人數:3
-       鄭念昀
-       劉漢文
-       尤弘鈞
- 聯絡我們:SoCuteMyGod
-   指導老師:游東祥
+   Sponsor:GreenSocks
 
-   贊助:GreenSocks
-
-            遊戲版本0.0.1
+            Version:0.0.1
