@@ -6,14 +6,16 @@
 6. 聯絡我們 (可有可無，有就要負責)
 7. 贊助
 
-數小人
+   LittlePeople
 
-版本:0.0.1
+Version:0.0.1
 
-團名:SoCuteMyGod
+Team Name:SoCuteMyGod
 
-製作人:游東祥
+Producer:Tony
 
-團員:劉漢文 尤泓鈞  鄭念昀
+Member:  Lin-han ven
+         Yun-nien cheng
+         Yu-hung chen 
 
-感謝 GreenSock 贊助                                                               
+Thank greensock Sponsorship                                                          
