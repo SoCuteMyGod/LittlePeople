@@ -5,18 +5,56 @@
           <DOMFolderItem name="001_Textures/AboutView" itemID="548bf4fd-000001e7" isExpanded="true"/>
      </folders>
      <media>
-          <DOMBitmapItem name="001_Textures/AboutView/AboutBackground.png" itemID="548bf505-000001e8" sourceExternalFilepath=".\LIBRARY\001_Textures\AboutView\AboutBackground.png" sourceLastImported="1418451262" externalFileSize="381699" originalCompressionType="lossless" quality="50" href="001_Textures\AboutView\AboutBackground.png" bitmapDataHRef="M 1 1418458357.dat" frameRight="6400" frameBottom="9600"/>
+          <DOMBitmapItem name="001_Textures/AboutView/AboutBackground.png" itemID="548bf505-000001e8" sourceExternalFilepath=".\LIBRARY\001_Textures\AboutView\AboutBackground.png" sourceLastImported="1418462376" externalFileSize="381699" originalCompressionType="lossless" quality="50" href="001_Textures\AboutView\AboutBackground.png" bitmapDataHRef="M 1 1418458357.dat" frameRight="6400" frameBottom="9600"/>
      </media>
      <symbols>
           <Include href="000_MainObjects/AboutView.xml" loadImmediate="false"/>
+          <Include href="文字.xml" loadImmediate="false"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="場景 1">
+          <DOMTimeline name="場景 1" currentFrame="21">
                <layers>
-                    <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true">
+                    <DOMLayer name="圖層 2" color="#9933CC" locked="true" current="true" isSelected="true" layerType="mask" animationType="motion object">
                          <frames>
-                              <DOMFrame index="0" keyMode="9728">
-                                   <elements/>
+                              <DOMFrame index="0" duration="120" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="120000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="zh_TW" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.499965" xformPtYOffsetPct="0.5" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="119000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-809.7" next="0,-809.7" previous="0,-809.7" roving="0" timevalue="119000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="文字" name="" selected="true" centerPoint3DX="366.25" centerPoint3DY="648.25">
+                                             <matrix>
+                                                  <Matrix tx="366.25" ty="422.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="225.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="圖層 3" color="#FF800A" parentLayerIndex="0" locked="true">
+                         <frames>
+                              <DOMFrame index="0" duration="120" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#D4D4D4" alpha="0"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!6400 0|6400 9600!6400 9600|0 9600!0 9600|0 0!0 0|6400 0"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="背景" color="#4FFF4F" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="120" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance name="" referenceID="" libraryItemName="001_Textures/AboutView/AboutBackground.png"/>
+                                   </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
