@@ -6,11 +6,12 @@
 6. 聯絡我們 (可有可無，有就要負責)
 7. 贊助
 
-   LittlePeople
+   -About LittlePeople-
 
-Version:0.0.1
-
-Team Name:SoCuteMyGod
+V0.0.1
+ 
+      -Team- 
+SoCuteMyGod
 
 Producer:Tony
 
@@ -18,4 +19,5 @@ Member:  Lin-han ven
          Yun-nien cheng
          Yu-hung chen 
 
-Thank greensock Sponsorship                                                          
+     -Support-
+    greensock                                                 
