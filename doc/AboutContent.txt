@@ -1,0 +1,27 @@
+﻿1. 遊戲名稱
+2. 遊戲版本 0.0.1
+3. 團隊資訊
+4. 製作人
+5. 團隊成員
+6. 聯絡我們 (可有可無，有就要負責)
+7. 贊助
+
+
+- About Little People -
+
+v0.0.1
+
+
+- Team -
+So Cute My God
+
+- Leader -
+YU, TUNG-HSIANG
+
+- Member -
+CHENG, NIEN-YUN
+LIU, HAN-WEN
+YU, HUNG-CHUN
+
+- Support -
+GreenSock
