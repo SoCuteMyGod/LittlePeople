@@ -6,12 +6,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="MenuAssets/Easy" name="easyBtn" symbolType="button">
+                <DOMSymbolInstance libraryItemName="001_Textures/MenuAssets/Easy" name="easyBtn" symbolType="button">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="MenuAssets/Normal" name="normalBtn" symbolType="button">
+                <DOMSymbolInstance libraryItemName="001_Textures/MenuAssets/Normal" name="normalBtn" symbolType="button">
                   <matrix>
                     <Matrix ty="60"/>
                   </matrix>
@@ -19,7 +19,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="MenuAssets/Hard" name="hardBtn" symbolType="button">
+                <DOMSymbolInstance libraryItemName="001_Textures/MenuAssets/Hard" name="hardBtn" symbolType="button">
                   <matrix>
                     <Matrix ty="120"/>
                   </matrix>
@@ -27,7 +27,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="MenuAssets/Back" name="backBtn" selected="true" symbolType="button">
+                <DOMSymbolInstance libraryItemName="001_Textures/MenuAssets/Back" name="backBtn" selected="true" symbolType="button">
                   <matrix>
                     <Matrix ty="180"/>
                   </matrix>

@@ -1,22 +1,29 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="320" height="480" currentTimeline="1" xflVersion="2.0" creatorInfo="Adobe Flash Professional CS5" platform="Windows" versionInfo="Saved by Adobe Flash Windows 11.0 build 485" majorVersion="11" buildNumber="485" viewAngle3D="33.7005366175533" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <folders>
           <DOMFolderItem name="000_MainObjects" itemID="547051df-0000022c" isExpanded="true"/>
-          <DOMFolderItem name="GameAssets" itemID="54705549-00000274" isExpanded="true"/>
-          <DOMFolderItem name="MenuAssets" itemID="5470553c-00000269" isExpanded="true"/>
+          <DOMFolderItem name="001_Textures" itemID="548bf4b8-000001dd" isExpanded="true"/>
+          <DOMFolderItem name="001_Textures/AboutViewAssets" itemID="549537a0-00000249"/>
+          <DOMFolderItem name="001_Textures/GameAssets" itemID="54705549-00000274"/>
+          <DOMFolderItem name="001_Textures/MenuAssets" itemID="5470553c-00000269"/>
      </folders>
+     <media>
+          <DOMBitmapItem name="001_Textures/AboutViewAssets/AboutBackground.png" itemID="548bf505-000001e8" sourceExternalFilepath=".\LIBRARY\001_Textures\AboutView\AboutBackground.png" sourceLastImported="1419065183" originalCompressionType="lossless" quality="50" href="001_Textures\AboutViewAssets\AboutBackground.png" bitmapDataHRef="M 1 1418458357.dat" frameRight="6400" frameBottom="9600"/>
+     </media>
      <symbols>
+          <Include href="000_MainObjects/AboutView.xml" loadImmediate="false"/>
           <Include href="000_MainObjects/GameView.xml" loadImmediate="false"/>
           <Include href="000_MainObjects/LevelMenu.xml" loadImmediate="false"/>
           <Include href="000_MainObjects/MainMenu.xml" loadImmediate="false"/>
-          <Include href="GameAssets/CountDown.xml" loadImmediate="false"/>
-          <Include href="MenuAssets/About.xml" itemIcon="0" loadImmediate="false"/>
-          <Include href="MenuAssets/Back.xml" itemIcon="0" loadImmediate="false"/>
-          <Include href="MenuAssets/Easy.xml" itemIcon="0" loadImmediate="false"/>
-          <Include href="MenuAssets/Hard.xml" itemIcon="0" loadImmediate="false"/>
-          <Include href="MenuAssets/LOGO.xml" loadImmediate="false"/>
-          <Include href="MenuAssets/Normal.xml" itemIcon="0" loadImmediate="false"/>
-          <Include href="MenuAssets/Rank.xml" itemIcon="0" loadImmediate="false"/>
-          <Include href="MenuAssets/Start.xml" itemIcon="0" loadImmediate="false"/>
+          <Include href="001_Textures/AboutViewAssets/AboutContent.xml" loadImmediate="false"/>
+          <Include href="001_Textures/GameAssets/CountDown.xml" loadImmediate="false"/>
+          <Include href="001_Textures/MenuAssets/About.xml" itemIcon="0" loadImmediate="false"/>
+          <Include href="001_Textures/MenuAssets/Back.xml" itemIcon="0" loadImmediate="false"/>
+          <Include href="001_Textures/MenuAssets/Easy.xml" itemIcon="0" loadImmediate="false"/>
+          <Include href="001_Textures/MenuAssets/Hard.xml" itemIcon="0" loadImmediate="false"/>
+          <Include href="001_Textures/MenuAssets/LOGO.xml" loadImmediate="false"/>
+          <Include href="001_Textures/MenuAssets/Normal.xml" itemIcon="0" loadImmediate="false"/>
+          <Include href="001_Textures/MenuAssets/Rank.xml" itemIcon="0" loadImmediate="false"/>
+          <Include href="001_Textures/MenuAssets/Start.xml" itemIcon="0" loadImmediate="false"/>
      </symbols>
      <timelines>
           <DOMTimeline name="場景 1">
@@ -25,7 +32,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="000_MainObjects/GameView" name="gameView" selected="true" centerPoint3DX="161.5" centerPoint3DY="222.65">
+                                        <DOMSymbolInstance libraryItemName="000_MainObjects/GameView" name="gameView" centerPoint3DX="161.5" centerPoint3DY="222.65">
                                              <transformationPoint>
                                                   <Point/>
                                              </transformationPoint>

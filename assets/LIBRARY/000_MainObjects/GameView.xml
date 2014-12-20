@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="MenuAssets/LOGO" name="logo" centerPoint3DX="161.5" centerPoint3DY="102.5">
+                <DOMSymbolInstance libraryItemName="001_Textures/MenuAssets/LOGO" name="logo" centerPoint3DX="161.5" centerPoint3DY="102.5">
                   <matrix>
                     <Matrix a="0.625289916992188" d="0.625289916992188" tx="161.5" ty="102.5"/>
                   </matrix>
