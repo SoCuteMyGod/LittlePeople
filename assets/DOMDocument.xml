@@ -5,6 +5,7 @@
           <DOMFolderItem name="MenuAssets" itemID="5470553c-00000269" isExpanded="true"/>
      </folders>
      <symbols>
+          <Include href="000_MainObjects/GameView.xml" loadImmediate="false"/>
           <Include href="000_MainObjects/LevelMenu.xml" loadImmediate="false"/>
           <Include href="000_MainObjects/MainMenu.xml" loadImmediate="false"/>
           <Include href="GameAssets/CountDown.xml" loadImmediate="false"/>
@@ -23,7 +24,13 @@
                     <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
-                                   <elements/>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="000_MainObjects/GameView" name="gameView" selected="true" centerPoint3DX="161.5" centerPoint3DY="222.65">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
