@@ -1,11 +1,41 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="000_MainObjects/RankView" itemID="5482c2cb-000001e4" lastModified="1417855694">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="000_MainObjects/RankView" itemID="5482c2cb-000001e4" lastModified="1421486958">
   <timeline>
     <DOMTimeline name="RankView">
       <layers>
-        <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true">
+        <DOMLayer name="標題" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
-              <elements/>
+              <elements>
+                <DOMStaticText width="145.5" height="84.65" autoExpand="true">
+                  <matrix>
+                    <Matrix tx="-72.75" ty="-199.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Rank</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="87" bitmapSize="1740" face="BrookeShappell8" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="8" blurY="8" quality="2" strength="5.08"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="背景" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="001_Textures/AboutViewAssets/AboutBackground.png">
+                  <matrix>
+                    <Matrix tx="-160" ty="-240"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
