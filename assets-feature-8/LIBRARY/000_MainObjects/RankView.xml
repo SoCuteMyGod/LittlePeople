@@ -1,11 +1,41 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="000_MainObjects/RankView" itemID="5482c2cb-000001e4" lastModified="1417855694">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="000_MainObjects/RankView" itemID="5482c2cb-000001e4" lastModified="1421486859">
   <timeline>
     <DOMTimeline name="RankView">
       <layers>
-        <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true">
+        <DOMLayer name="標題" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
-              <elements/>
+              <elements>
+                <DOMStaticText width="107.1" height="62.25" autoExpand="true">
+                  <matrix>
+                    <Matrix tx="-58" ty="-202.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Rank</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="2.8" size="64" bitmapSize="1280" face="BrookeShappell8" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#000000" strength="9.56"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="背景" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="001_Textures/AboutViewAssets/AboutBackground.png">
+                  <matrix>
+                    <Matrix tx="-160" ty="-240"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
