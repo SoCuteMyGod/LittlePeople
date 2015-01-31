@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="RankRow" itemID="54cc9497-00000016" lastModified="1422693527">
+  <timeline>
+    <DOMTimeline name="RankRow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="22.95" height="25.3" autoExpand="true">
+                  <matrix>
+                    <Matrix tx="-117.85" ty="-12.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>No</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="26" bitmapSize="520" face="BrookeShappell8" fillColor="#C69100"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF" quality="2" strength="3.87"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="53.05" height="25.3" autoExpand="true">
+                  <matrix>
+                    <Matrix tx="-58.9" ty="-12.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Name</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="26" bitmapSize="520" face="BrookeShappell8" fillColor="#C69100"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF" quality="2" strength="3.87"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="54.75" height="25.3" autoExpand="true">
+                  <matrix>
+                    <Matrix tx="63.1" ty="-12.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Score</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="26" bitmapSize="520" face="BrookeShappell8" fillColor="#C69100"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF" quality="2" strength="3.87"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
