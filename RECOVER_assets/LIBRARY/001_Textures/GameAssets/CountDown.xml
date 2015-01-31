@@ -1,0 +1,140 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="001_Textures/GameAssets/CountDown" itemID="5482c487-00000208" lastModified="1417856135">
+  <timeline>
+    <DOMTimeline name="CountDown" currentFrame="89">
+      <layers>
+        <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="28" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMStaticText width="56" height="107.25">
+                  <matrix>
+                    <Matrix tx="-22" ty="-56"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>3</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="96" face="BrookeShappell8" fillColor="#0066CC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMStaticText width="7.35" height="15.6">
+                  <matrix>
+                    <Matrix a="0.252777099609375" d="0.252777099609375" tx="-2.55" ty="-8.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.1" y="34.6"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>3</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="81" face="BrookeShappell8" fillColor="#0066CC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="29" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMStaticText width="56" height="101.8">
+                  <matrix>
+                    <Matrix tx="-24" ty="-56"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="96" face="BrookeShappell8" fillColor="#0066CC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" keyMode="9728">
+              <elements>
+                <DOMStaticText width="6.4" height="13.9">
+                  <matrix>
+                    <Matrix a="0.23077392578125" d="0.23077392578125" tx="-2.5" ty="-7.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="33.8"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="81" face="BrookeShappell8" fillColor="#0066CC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="29" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMStaticText width="56" height="101.8">
+                  <matrix>
+                    <Matrix tx="-8" ty="-56"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="96" face="BrookeShappell8" fillColor="#0066CC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" keyMode="9728">
+              <elements>
+                <DOMStaticText width="11.35" height="22.45">
+                  <matrix>
+                    <Matrix a="0.341171264648438" d="0.341171264648438" tx="-0.75" ty="-12.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.05" y="36.65"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="81" face="BrookeShappell8" fillColor="#0066CC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" keyMode="9728">
+              <elements>
+                <DOMStaticText width="161.95" height="101.8">
+                  <matrix>
+                    <Matrix tx="-52" ty="-56"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>GO</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="96" face="BrookeShappell8" fillColor="#0066CC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

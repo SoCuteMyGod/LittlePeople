@@ -1,0 +1,125 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="001_Textures/MenuAssets/LOGO" itemID="5482bdaf-000001da" lastModified="1417854383">
+  <timeline>
+    <DOMTimeline name="LOGO">
+      <layers>
+        <DOMLayer name="文字" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="170.2" height="170" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-85.1" ty="-85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>數</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="170" bitmapSize="3400" face="DFHaiBaoW12-UB-HK-BF" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="170" bitmapSize="3400" face="DFHaiBaoW12-UB-HK-BF" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="55.2" height="55" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-200.95" ty="-27.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>小</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="55" bitmapSize="1100" face="DFHaiBaoW12-UB-HK-BF" fillColor="#009900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="55" bitmapSize="1100" face="DFHaiBaoW12-UB-HK-BF" fillColor="#009900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="55.2" height="55" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="146" ty="-27.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>人</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="55" bitmapSize="1100" face="DFHaiBaoW12-UB-HK-BF" fillColor="#009900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="55" bitmapSize="1100" face="DFHaiBaoW12-UB-HK-BF" fillColor="#009900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="圖層 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFF00"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="5">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!4270 -800|4270 800!4270 800|2670 800!2670 800|2670 -800!2670 -800|4270 -800!-2670 -800|-2670 800!-2670 800|-4270 800!-4270 800|-4270 -800!-4270 -800|-2670 -800"/>
+                    <Edge cubics="!-4270 -800(;-4270,-800 -2670,-800 -2670,-800q-4270 -800 -2670 -800);"/>
+                    <Edge cubics="!-2670 800(;-2670,800 -4270,800 -4270,800q-2670 800 -4270 800);"/>
+                    <Edge cubics="!-2670 -800(;-2670,-800 -2670,300 -2670,300q-2670 -800 -2670 300);"/>
+                    <Edge cubics="!-2670 300(;-2670,300 -2670,460 -2670,460q-2670 300 -2670 460);"/>
+                    <Edge cubics="!-2670 460(;-2670,460 -2670,800 -2670,800q-2670 460 -2670 800);"/>
+                    <Edge cubics="!-4270 800(;-4270,800 -4270,-800 -4270,-800q-4270 800 -4270 -800);"/>
+                    <Edge cubics="!2670 -800(;2670,-800 4270,-800 4270,-800q2670 -800 4270 -800);"/>
+                    <Edge cubics="!4270 800(;4270,800 2670,800 2670,800q4270 800 2670 800);"/>
+                    <Edge cubics="!4270 -800(;4270,-800 4270,800 4270,800q4270 -800 4270 800);"/>
+                    <Edge cubics="!2670 800(;2670,800 2670,-800 2670,-800q2670 800 2670 -800);"/>
+                  </edges>
+                </DOMShape>
+                <DOMOvalObject objectWidth="266.95" objectHeight="266.95" x="-115.95" y="-101" endAngle="0">
+                  <matrix>
+                    <Matrix tx="-17.55" ty="-32.45"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#00FFFF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="5">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
